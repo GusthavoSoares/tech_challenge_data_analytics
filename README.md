@@ -150,7 +150,7 @@ tech_challenge_data_analytics/
 ## Autores
 
 | Nome | RM | Área de Análise |
-|---|---|
+|---|---:|---|
 | Alexandre de Souza Amorim | 372077 | Receita e Crescimento por Categoria |
 | Allison Lima | 372648 | Regiões de Maior Rentabilidade |
 | Caio Rodrigues Bosnic Barbosa | 372603 | Logística e Rentabilidade por Região |
