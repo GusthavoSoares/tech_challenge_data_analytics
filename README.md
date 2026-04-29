@@ -129,7 +129,7 @@ tech_challenge_data_analytics/
 
 2. Instale as dependências necessárias:
    ```bash
-   pip install pandas numpy matplotlib seaborn
+  pip install pandas numpy matplotlib seaborn pyspark
    ```
 
 3. Abra o ambiente Jupyter:
